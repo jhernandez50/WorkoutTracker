@@ -12,7 +12,7 @@ In this project, I have created an workout tracker using mondgo as the Data Base
 
 ## Functionality
 
-With this app, you can can a detailed schedule of the workout you perform ever day.
+With this app, you can have a detailed schedule of the workout you perform ever day.
 
 ## Repository
 
